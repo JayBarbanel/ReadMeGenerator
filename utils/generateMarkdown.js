@@ -52,10 +52,11 @@ ${data.usage}
 ${data.contribution}
 ## To Test
 ${data.tests}
+## License
+${data.license}
 ## Questions
 If you have any questions, feel free to reach me at ${data.githubUsername} or email me at 
 ${data.email}
-## Video 
 `;
 }
 

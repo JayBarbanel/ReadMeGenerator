@@ -10,16 +10,17 @@
 * [License](#License)
 
 ## Description 
-test
-## Installation Instructions
-test
-## Usage
-test
-## How to contribute
 tes
+## Installation Instructions
+t
+## Usage
+
+## How to contribute
+
 ## To Test
-test
+
+## License
+MIT
 ## Questions
-If you have any questions, feel free to reach me at test or email me at 
-test
-## Video 
+If you have any questions, feel free to reach me at  or email me at 
+
