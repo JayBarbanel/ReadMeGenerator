@@ -41,7 +41,6 @@ ${renderLicenseBadge(data.license)}
 * [How to Contribute](#contribution)
 * [To Tests](#tests)
 * [License](#license)
-${data.description}
 ## Installation Instructions:
 ${data.installation}
 ## Usage:
