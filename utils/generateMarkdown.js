@@ -25,10 +25,13 @@ ${renderLicenseBadge(data.license)}
 ## Table of contents:
 * [description](#description:)
 * [installation](#installation)
+* [usage](#usage)
 ## Description:
 ${data.description}
-## Installation Details"
+## Installation Details:
 ${data.installation}
+## Usage:
+${data.usage}
 `;
 }
 

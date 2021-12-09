@@ -5,7 +5,10 @@
 ## Table of contents:
 * [description](#description:)
 * [installation](#installation)
+* [usage](#usage)
 ## Description:
 test
-## Installation Details"
+## Installation Details:
+test
+## Usage:
 test
