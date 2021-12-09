@@ -37,10 +37,10 @@ function generateMarkdown(data) {
 ${renderLicenseBadge(data.license)}
 ## Table of contents
 * [Description](#description)
-* [Installation Instructions](#installation)
-* [How to Contribute](#contribution)
-* [To Tests](#tests)
-* [License](#license)
+* [Installation Instructions](#Installation-Instructions)
+* [How to Contribute](#How-to-Contribute)
+* [Tests](#Tests)
+* [License](#License)
 
 ## Description 
 ${data.description}
@@ -55,6 +55,7 @@ ${data.tests}
 ## Questions
 If you have any questions, feel free to reach me at ${data.githubUsername} or email me at 
 ${data.email}
+## Video 
 `;
 }
 
