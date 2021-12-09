@@ -6,7 +6,7 @@
 * [Description](#description)
 * [Installation Instructions](#Installation-Instructions)
 * [How to Contribute](#How-to-Contribute)
-* [Tests](#Tests)
+* [To Test](#To-Test)
 * [License](#License)
 
 ## Description 
@@ -16,7 +16,7 @@ test
 ## Usage
 test
 ## How to contribute
-test
+tes
 ## To Test
 test
 ## Questions
