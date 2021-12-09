@@ -26,12 +26,15 @@ ${renderLicenseBadge(data.license)}
 * [description](#description:)
 * [installation](#installation)
 * [usage](#usage)
+* [license](#license)
 ## Description:
 ${data.description}
 ## Installation Details:
 ${data.installation}
 ## Usage:
 ${data.usage}
+## License:
+${data.license}
 `;
 }
 
