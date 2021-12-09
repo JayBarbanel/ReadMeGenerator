@@ -26,7 +26,6 @@ ${renderLicenseBadge(data.license)}
 * [description](#description:)
 * [installation](#installation)
 * [usage](#usage)
-* [license](#license)
 * [tests](#tests)
 ## Description:
 ${data.description}
@@ -34,8 +33,8 @@ ${data.description}
 ${data.installation}
 ## Usage:
 ${data.usage}
-## License:
-${data.license}
+## Contributing:
+${data.contribution}
 ## Tests:
 ${data.tests}
 `;

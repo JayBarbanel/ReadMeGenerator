@@ -6,7 +6,6 @@
 * [description](#description:)
 * [installation](#installation)
 * [usage](#usage)
-* [license](#license)
 * [tests](#tests)
 ## Description:
 test
@@ -14,7 +13,7 @@ test
 test
 ## Usage:
 test
-## License:
-MIT
+## Contributing:
+test
 ## Tests:
 test
