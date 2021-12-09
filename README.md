@@ -3,12 +3,12 @@
 
         
 ## Table of contents:
-* [description](#description)
-* [installation](#installation)
-* [usage](#usage)
-* [tests](#tests)
-* [questions](#questions)
-## Description:
+* [Description](#description)
+* [Installation Instructions](#installation)
+* [How to Contribute](#contribution)
+* [Usage](#usage)
+* [To Tests](#tests)
+* [License](#license)
 test
 ## Installation Instructions:
 test
@@ -19,5 +19,5 @@ test
 ## To Test:
 test
 ## Questions:
-If you have any questions, you can reach me at github.comor email me at 
-jbarbanel531@gmail.com
+If you have any questions, feel free to reach me at test or email me at 
+test
