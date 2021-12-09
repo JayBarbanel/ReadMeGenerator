@@ -4,18 +4,32 @@
         
 ## Table of contents
 * [Description](#description)
-* [Installation Instructions](#installation)
-* [How to Contribute](#contribution)
-* [To Tests](#tests)
-* [License](#license)
+
+* [Installation Instructions](#installation-instructions)
+
+* [How to Contribute](#how-to-contribute)
+
+* [Test](#test)
+
+* [Questions](#questions)
+
 ## Installation Instructions
+
 test
+
 ## Usage
+
 test
-## How to contribute
+
+## How to Contribute
+
 test
-## To Test
+
+## Test
+
 test
+
 ## Questions
+
 If you have any questions, feel free to reach me at test or email me at 
 test
