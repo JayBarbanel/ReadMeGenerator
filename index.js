@@ -32,7 +32,26 @@ const questions = [{
         name: "license",
         choices: ["MIT", "GPL_3.0", "none"]
 
-    }
+    },
+    {
+        type: 'input',
+        message: 'What tests did you run on your application?',
+        name: 'tests',
+
+    },
+    {
+        type: 'input',
+        message: 'Please specify contribution guidelines.',
+        name: 'contribution',
+
+    },
+    {
+        type: 'input',
+        message: 'Please let me know if you have any questions..',
+        name: 'questions',
+
+    },
+
 ];
 
 // TODO: Create a function to write README file
