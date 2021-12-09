@@ -39,7 +39,6 @@ ${renderLicenseBadge(data.license)}
 * [Description](#description)
 * [Installation Instructions](#installation)
 * [How to Contribute](#contribution)
-* [Usage](#usage)
 * [To Tests](#tests)
 * [License](#license)
 ${data.description}
