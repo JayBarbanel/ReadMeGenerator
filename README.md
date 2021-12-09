@@ -2,20 +2,20 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/)
 
         
-## Table of contents:
+## Table of contents
 * [Description](#description)
 * [Installation Instructions](#installation)
 * [How to Contribute](#contribution)
 * [To Tests](#tests)
 * [License](#license)
-## Installation Instructions:
+## Installation Instructions
 test
-## Usage:
+## Usage
 test
-## How to contribute:
+## How to contribute
 test
-## To Test:
+## To Test
 test
-## Questions:
+## Questions
 If you have any questions, feel free to reach me at test or email me at 
 test
