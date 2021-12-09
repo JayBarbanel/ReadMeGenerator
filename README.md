@@ -1,4 +1,4 @@
-# Project Title: test
+# Project Title: README Generator
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/)
 
         
@@ -9,15 +9,15 @@
 * [Usage](#usage)
 * [To Tests](#tests)
 * [License](#license)
-test
+This is a generator that will prompt questions about the project, allowing the user to iput their README details.
 ## Installation Instructions:
-test
+n/a
 ## Usage:
-test
+You open the program in VSCode and node index.js and input your info
 ## How to contribute:
-test
+n/a
 ## To Test:
-test
+n/a
 ## Questions:
-If you have any questions, feel free to reach me at test or email me at 
-test
+If you have any questions, feel free to reach me at Github.com or email me at 
+jbarbanel531@gmail.com
