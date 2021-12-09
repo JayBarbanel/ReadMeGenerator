@@ -1,4 +1,4 @@
-# Project Title: README Generator 
+# Project Title: README Generator
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/)
 
         
@@ -10,15 +10,15 @@
 * [License](#License)
 
 ## Description 
-This is a generator that will prompt the user with a series of questions relating to their application.  Once the user has entered the answers to the specific questions, a professional, well built README file is created with license details if applicable. 
+This is a generator that will prompt the user with a series of questions relating to their program.  Once the user has entered the answers to the specific questions, a professional, well built README file is created with license details included if applicable.
 ## Installation Instructions
-As long as you have node installed on your computer, you simply open the file in VSCode and run the program.
+As long as you have node downloaded on your computer, you can run this program.
 ## Usage
-To use this application, you simply answer the questions provided once 'node index.js' is run through your terminal.  Once complete, the README file is generated for you. 
+You simply open the file in VSCode, run 'node index.js', go through the questions, and then the README file will generate once complete.
 ## How to contribute
 n/a
 ## To Test
-Multiple commits were pushed to Github throughout the building of this application to ensure everything was working.
+Multipule commits were run through Github during the building of this program to ensure all functioned correctly. 
 ## License
 MIT
 ## Questions
